@@ -8,6 +8,20 @@
         display: flex;
         justify-content: space-between;
      }
+    .formulario .boton{
+        decoration: none;
+        border-radius: 5px;
+        border: 2px solid;
+        padding: 5px 15px;
+        font-family: bold;
+        font-size: 15px;
+    }
+}
+
+.formulario .boton{
+        decoration: none;
+        border-radius: 5px;
+        border: 2px solid;
 }
 
 .formulario div input{
@@ -17,6 +31,7 @@
 }
 
 .formulario .boton{
+    decoration: none;
     border-radius: 5px;
     border: 2px solid;
     padding: 5px 15px;
