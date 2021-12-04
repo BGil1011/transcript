@@ -1,9 +1,9 @@
 .formulario{
-    width: 65%;
+    width: 70%;
     margin: 30px 0;
 }
 
-@media (min-width: 768px){
+@media(min-width: 768px){
     .formulario{
         display: flex;
         justify-content: space-between;
@@ -13,6 +13,7 @@
 .formulario div input{
     border-radius: 10px;
     border: 1px solid gray;
+    margin-bottom: 30px
 }
 
 .formulario .boton{
